@@ -1,0 +1,3 @@
+to check node version : node -v /node --version
+to check npm version: npm -v / npm --version
+to initilise the project: npm init or npm init -y
