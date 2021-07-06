@@ -1,0 +1,44 @@
+NodeJS
+---------------------------------------
+it is an open-source runtime environment 
+built on chrome's V8 JS engine
+
+NodeJs is not a language
+NOdeJs is not a library
+NodeJs is not a framework
+
+NodeJs can be used to build different types of applications
+1.Command Line applications
+2.Web applications
+3.Real-time chat applications
+4.Rest API Servers
+
+
+Advantages
+----------------------------------------
+1.Uses JS to build entire server-side applications
+2.Asynchronous by default,so it performs faster
+3.Cross-platform framework,that run on Windows,Mac,Linux
+
+REPL:Read,Evaluate,Print,Loop(quick way to test JS/NodeJS)
+
+DataTypes-string,number,boolean,undefined,null,object,functions,arrays
+
+
+
+Process object
+------------------------------------------
+Each NodeJS script runs in a Process.It includes process object to get all 
+the info about the current process of NodeJS
+
+Module types
+-------------------------------------------
+1.core modules - http,ur,querystring,path etc..
+2.local modules-esing other files
+3.third party modules
+
+module.exports
+--------------------------------------------
+This is a special object which is included in every JS file
+in the nodejs application by default
+
